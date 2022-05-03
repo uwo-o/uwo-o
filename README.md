@@ -1,5 +1,7 @@
-### Hi everyone I'm
-# HUGO CAMPOS
+### Hi everyone 👋 I'm
+## HUGO CAMPOS
+#### Computer engineering student at [Federico Santa Maria Technical University](https://usm.cl/en/home/)
+
 
 <!--
 **uwo-o/uwo-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
