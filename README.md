@@ -1,4 +1,4 @@
-### Hi everyone 👋 I'm
+<center>### Hi everyone 👋 I'm</center>
 ## HUGO CAMPOS
 #### Computer engineering student at [Federico Santa Maria Technical University](https://usm.cl/en/home/)
 
