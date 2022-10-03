@@ -3,7 +3,7 @@
 <p align="center">Computer engineering student at <a href="https://usm.cl/en/home/">Federico Santa Maria Technical University</a></p>
 
 <h2>A little about me 😄</h2>
-<p>Web developer, I don’t have a lot of experience but I’m really eager to learn, I want to improve my abilities and knowledge. You can create my future, are you ready?</p>
+<p>Web developer, I don’t have a lot of experience but I’m really eager to learn, I want to improve my abilities and knowledges. You can create my future, are you ready?</p>
 <p>🌱 I’m currently learning <strong>React</strong></p>
 <p>💬 Ask me about <strong>Python, C, JavaScript</strong></p>
 <p>💻 My personal website: <a href="http://uwo.pythonanywhere.com/">Click here to visit my page😄</a></p>
