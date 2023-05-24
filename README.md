@@ -19,4 +19,4 @@ I'm always looking for new opportunities to collaborate, so please feel free to 
 
 ## Contact
 
-* <a href="https://www.linkedin.com/in/uwo-o">**![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/LinkedIn_icon.svg/21px-LinkedIn_icon.svg.png) LinkedIn**</a>
+* <a href="https://www.linkedin.com/in/uwo-o">**![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn**</a>
