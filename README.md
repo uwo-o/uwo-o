@@ -19,8 +19,4 @@ I'm always looking for new opportunities to collaborate, so please feel free to 
 
 ## Contact
 
-* <a href="https://www.linkedin.com/in/uwo-o">**<div class="social-icons-image">
-                <a href="http://www.linkedin.com">
-                    <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon">
-                </a>
-            </div>LinkedIn**</a>
+* <a href="https://www.linkedin.com/in/uwo-o">**![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/LinkedIn_icon.svg/21px-LinkedIn_icon.svg.png) LinkedIn**</a>
