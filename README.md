@@ -8,7 +8,7 @@ I'm always looking for new opportunities to collaborate, so please feel free to 
 
 ## Skills
 
-* **Web Development:** I have experience with a variety of web development technologies, including HTML, CSS, JavaScript, React, Node.js, Bootstrap, and Python.
+* **Web Development:** I have experience with a variety of web development technologies, including HTML, CSS, JavaScript, React.js, Node.js, Next.js, Bootstrap, and Python.
 * **Machine Learning:** I'm currently learning about machine learning and I'm excited to apply it to sciencist investigation.
 * **Git:** I'm proficient in Git and I'm familiar with the GitHub workflow.
 * **Other:** I'm also proficient in a variety of other technologies, including SQL, NoSQL.
