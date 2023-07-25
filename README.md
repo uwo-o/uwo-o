@@ -9,7 +9,6 @@ I'm always looking for new opportunities to collaborate, so please feel free to 
 ## Main programming languages
 - C/C++
 - Python
-- JavaScript
 
 ## Skills
 
