@@ -19,7 +19,7 @@ I'm always looking for new opportunities to collaborate, so please feel free to 
 
 ## Education
 
-* **Federico Santa Maria Technical University:** Information Technology Engineering
+* **Federico Santa Maria Technical University (Studying):** Information Technology Engineering
 
 ## Contact
 
