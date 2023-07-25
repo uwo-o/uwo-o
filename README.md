@@ -19,6 +19,7 @@ I'm always looking for new opportunities to collaborate, so please feel free to 
 
 ## Education
 
+* **Santa Cruz's Polytechnic Institute (2018):** Middle-level technician in electronics 
 * **Federico Santa Maria Technical University (Studying):** Information Technology Engineering
 
 ## Contact
