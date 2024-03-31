@@ -7,8 +7,9 @@ In my spare time, I enjoy reading and learning new things.
 I'm always looking for new opportunities to collaborate, so please feel free to reach out if you have any projects in mind.
 
 ## Main programming languages
-- C/C++
 - Python
+- C/C++
+- Java
 
 ## Skills
 
