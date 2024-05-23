@@ -16,7 +16,7 @@ I'm always looking for new opportunities to collaborate, so please feel free to 
 * **Web Development:** I have experience with various web development technologies, including HTML, CSS, JavaScript, React.js, Node.js, Next.js, Bootstrap, and Python.
 * **Machine Learning:** I'm currently learning about machine learning and am excited to apply it to scientific research, actually I'm learning Tensorflow.
 * **Low-Level Software Systems:** I have experience developing software for a new-generation observatory using ACS (Alma Common Software) as a framework.
-* **Parallel Programming: ** I have experience programming in CUDA and Kokkos.
+* **Parallel Programming:** I have experience programming in CUDA and Kokkos.
 * **Git:** I have experience with Git branching and merging and am familiar with Gitlab/Github workflow.
 * **Other:** I'm also proficient in a variety of other technologies, including SQL/NoSQL, and GNU/Linux systems.
 
