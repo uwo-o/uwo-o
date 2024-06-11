@@ -27,4 +27,4 @@ I'm always looking for new opportunities to collaborate, so please feel free to 
 
 ## Contact
 
-* <a href="https://www.linkedin.com/in/uwo-o">**![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn**</a>
+[![LinkedId](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/uwo-o)
