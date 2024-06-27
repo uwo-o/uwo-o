@@ -1,6 +1,6 @@
 ## Hi! 🌱😸
 
-I'm Hugo Campos Castro, an Information Technology Engineering student at <a href="https://usm.cl/en/home/">Federico Santa Maria Technical University</a>. I'm passionate about physics, data science, machine learning, artificial intelligence, and research.
+I'm Hugo Campos Castro, a Computer Science student at <a href="https://usm.cl/en/home/">Federico Santa Maria Technical University</a>. I'm passionate about physics, data science, machine learning, artificial intelligence, and research.
 
 In my spare time, I enjoy reading and learning new things.
 
