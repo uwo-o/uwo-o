@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://uwo-o.github.io/portfolio-web/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uwo-o.github.io/portfolio-web/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://uwo-o.github.io/portfolio-web/?lang=es"/>
+    <loc>https://uwo-o.github.io/uwo-o/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://uwo-o.github.io/uwo-o/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://uwo-o.github.io/uwo-o/?lang=es"/>
     <lastmod>2026-10-18</lastmod>
   </url>
   <url>
-    <loc>https://uwo-o.github.io/portfolio-web/?lang=es</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://uwo-o.github.io/portfolio-web/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://uwo-o.github.io/portfolio-web/?lang=es"/>
+    <loc>https://uwo-o.github.io/uwo-o/?lang=es</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://uwo-o.github.io/uwo-o/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://uwo-o.github.io/uwo-o/?lang=es"/>
     <lastmod>2026-10-18</lastmod>
   </url>
 </urlset>
